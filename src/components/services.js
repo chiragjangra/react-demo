@@ -54,7 +54,7 @@ const Services = () => {
       </div>
       <section className='services space-default bg1'>
         <div className='container'>
-          <h2 className='section-title'>All Services we provide</h2>
+          <h2 className='section-title'>Chirag Services we provide</h2>
           <div className='cards df fww w100'>
             <article className='card bg1 br16 ofh transit1 p32 mr24 mb24'>
               <div className='card-content'>
